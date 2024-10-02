@@ -16,6 +16,8 @@ LinkedIn <https://www.linkedin.com/in/shesha-kshitij-c-r-53972829a/>
 I participated in a 12-hour hackathon, pushing my coding skills to the limit and loving every minute of it!
 I can name at least 50 different gaming Easter eggs across valorant.
 I once used a microcontroller to automate my room lights based on my gaming schedule.
+
+[![An image of @insaneuchiha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/insaneuchiha)](https://holopin.io/@insaneuchiha)
 <!---
 Insaneuchiha/Insaneuchiha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
