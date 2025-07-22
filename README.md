@@ -18,6 +18,8 @@ I can name at least 50 different gaming Easter eggs across valorant.
 I once used a microcontroller to automate my room lights based on my gaming schedule.
 
 [![An image of @insaneuchiha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/insaneuchiha)](https://holopin.io/@insaneuchiha)
+[![Postman Student Expert Badge](https://badgr.com/public/assertions/m747QedtSgq057OTjvEenw/image)](https://badgr.com/public/assertions/m747QedtSgq057OTjvEenw)
+
 <!---
 Insaneuchiha/Insaneuchiha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
