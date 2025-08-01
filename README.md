@@ -44,4 +44,3 @@ If you have a cool idea that brings together code and creativity, I’d love to 
 
 > _“Always learning, always creating. Let’s build something awesome together!”_
 
-Let me know if you want it tweaked for a specific tone or audience!
