@@ -32,8 +32,8 @@ If you have a cool idea that brings together code and creativity, I’d love to 
 - [LinkedIn](https://www.linkedin.com/in/shesha-kshitij-c-r-53972829a/)
 
 ## 🏅 Badges & Achievements
-
-[![An image of @insaneuchiha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/insane Student Expert Badge](https://badgr.com/public/assertions/m747Qedt://badgr.com/public/assertions/m747QedtSgq057OTjvEen Pronouns
+[![An image of @insaneuchiha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/insaneuchiha)](https://holopin.io/@insaneuchiha)
+[![Postman Student Expert Badge](https://badgr.com/public/assertions/m747QedtSgq057OTjvEenw/image)](https://badgr.com/public/assertions/m747QedtSgq057OTjvEenw)
 
 
 ## ⚡ Fun Facts
