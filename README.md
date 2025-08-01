@@ -1,26 +1,47 @@
-👋 Hi, I'm @Insaneuchiha
 
-👀 I'm interested in gaming, web development, and microcontrollers. I love exploring the intersection of software and hardware, creating interactive web experiences, and diving into immersive gaming worlds.
-🌱 I'm currently learning web development and data structures & algorithms (DSA). I'm excited about building responsive, user-friendly websites and optimizing code efficiency through strong algorithmic foundations.
-💞️ I'm looking to collaborate on web development projects, game mods, or innovative microcontroller applications. I'm always eager to combine my diverse interests into unique and exciting projects.
-📫 How to reach me:
+# 👋 Hi, I'm @Insaneuchiha
 
-GitHub<https://github.com/Insaneuchiha>
-LinkedIn <https://www.linkedin.com/in/shesha-kshitij-c-r-53972829a/>
+Welcome to my corner of GitHub!  
+I’m a passionate **engineering student** exploring the vibrant intersection of **gaming, web development, and microcontrollers**.
+
+## 🚀 About Me
+
+- 🎮 **Gamer at heart:** From immersive RPGs to tactical shooters, I love diving deep into gaming worlds—and I can talk Easter eggs in Valorant all day!
+- 🌐 **Web Development Enthusiast:** Currently honing my skills in **responsive web design** and mastering **data structures & algorithms** to create seamless, efficient, and impactful digital experiences.
+- 🤖 **Microcontroller Maker:** I enjoy building **interactive hardware-software projects**—recently, I automated my room lights with a microcontroller based on my gaming schedule!
+- ⚡ **Challenge Seeker:** Proud participant in a 12-hour hackathon—nothing beats the thrill of intense, collaborative coding sprints.
+
+## 🌱 What I’m Up To
+
+- Deep diving into **modern frameworks** for web development.
+- Sharpening my **algorithmic thinking** and code optimization skills.
+- Exploring innovative applications for **ESP and Raspberry Pi** in IoT and automation.
+
+## 🤝 Let’s Collaborate!
+
+I’m open to working on:
+- **Web Development Projects**
+- **Game Mods**
+- **Creative Microcontroller Applications**
+
+If you have a cool idea that brings together code and creativity, I’d love to hear from you!
+
+## 📫 Reach Me
+
+- [GitHub](https://github.com/Insaneuchiha)
+- [LinkedIn](https://www.linkedin.com/in/shesha-kshitij-c-r-53972829a/)
+
+## 🏅 Badges & Achievements
+
+[![An image of @insaneuchiha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/insane Student Expert Badge](https://badgr.com/public/assertions/m747Qedt://badgr.com/public/assertions/m747QedtSgq057OTjvEen Pronouns
 
 
+## ⚡ Fun Facts
 
-😄 Pronouns: He/Him
-⚡ Fun facts:
+- Participated in a 12-hour hackathon—pushed my coding stamina to new limits!
+- Can name **50+ gaming Easter eggs** in Valorant.
+- Automated my room lights using a microcontroller tailored to my gaming sessions.
 
-I participated in a 12-hour hackathon, pushing my coding skills to the limit and loving every minute of it!
-I can name at least 50 different gaming Easter eggs across valorant.
-I once used a microcontroller to automate my room lights based on my gaming schedule.
+> _“Always learning, always creating. Let’s build something awesome together!”_
 
-[![An image of @insaneuchiha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/insaneuchiha)](https://holopin.io/@insaneuchiha)
-[![Postman Student Expert Badge](https://badgr.com/public/assertions/m747QedtSgq057OTjvEenw/image)](https://badgr.com/public/assertions/m747QedtSgq057OTjvEenw)
-
-<!---
-Insaneuchiha/Insaneuchiha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let me know if you want it tweaked for a specific tone or audience!
