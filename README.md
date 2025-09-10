@@ -2,7 +2,7 @@
 # 👋 Hi, I'm @Insaneuchiha
 
 Welcome to my corner of GitHub!  
-I’m a passionate **engineering student** exploring the vibrant intersection of **gaming, web development, and microcontrollers**.
+I’m a passionate **engineering student** exploring the vibrant intersection of **gaming, web development,Computer Networks and MicroControllers**.
 
 ## 🚀 About Me
 
@@ -16,12 +16,13 @@ I’m a passionate **engineering student** exploring the vibrant intersection of
 - Deep diving into **modern frameworks** for web development.
 - Sharpening my **algorithmic thinking** and code optimization skills.
 - Exploring innovative applications for **ESP and Raspberry Pi** in IoT and automation.
+- Developing my own **HomeLab Setup** Step by Step. 
 
 ## 🤝 Let’s Collaborate!
 
 I’m open to working on:
 - **Web Development Projects**
-- **Game Mods**
+- **Networking Projects**
 - **Creative Microcontroller Applications**
 
 If you have a cool idea that brings together code and creativity, I’d love to hear from you!
@@ -39,7 +40,8 @@ If you have a cool idea that brings together code and creativity, I’d love to 
 ## ⚡ Fun Facts
 
 - Participated in a 12-hour hackathon—pushed my coding stamina to new limits!
-- Can name **50+ gaming Easter eggs** in Valorant.
+- Made my own Google cloud ie NAS server on my home network for remote access to my Anime.
+- Flashed a custom rom on a phone just to have unlimited photos storage on Google photos.
 - Automated my room lights using a microcontroller tailored to my gaming sessions.
 
 > _“Always learning, always creating. Let’s build something awesome together!”_
